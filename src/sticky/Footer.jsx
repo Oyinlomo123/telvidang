@@ -46,10 +46,10 @@ const Footer = () => {
             <footer className="Copyright">
               <h4>Copyright @ telvida.ng</h4>
               <div className="font">
-              <a href="https://www.facebook.com/telvida/" target="blak"><i class="ri-facebook-line"></i></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://x.com/telvidang" target="blak"><i class="ri-twitter-x-line"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://www.instagram.com/telvida_ng/" target="blak"><i class="ri-instagram-line"></i></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="https://www.linkedin.com/company/telvida/?originalSubdomain=ng" target="blak"><i class="ri-linkedin-fill"></i></a>
+              <a href="https://www.facebook.com/telvida/" target="blak"><i className="ri-facebook-line"></i></a> &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://x.com/telvidang" target="blak"><i className="ri-twitter-x-line"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.instagram.com/telvida_ng/" target="blak"><i className="ri-instagram-line"></i></a> &nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.linkedin.com/company/telvida/?originalSubdomain=ng" target="blak"><i className="ri-linkedin-fill"></i></a>
               </div>
             </footer>
     </div>
